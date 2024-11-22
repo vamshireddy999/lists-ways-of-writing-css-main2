@@ -1,0 +1,37 @@
+#mainHeading{
+    color: aqua;
+    background-color: brown;
+    text-align: center;
+    border-radius: 20px;
+    text-shadow: 2px 2px 2px black;
+    box-shadow: 5px 5px 5px goldenrod;
+    border: 5px solid black;
+
+}
+#vamshi{
+    list-style-type: square;
+}
+#olMain{
+    list-style-image: url(./images/bjp\ 4.png)
+
+}
+#vamshi2{
+    list-style-type:none;
+}
+#idKCR{
+    list-style-type: square;
+}
+dt{
+    color: darkgreen;
+    
+}
+dd{
+    color: blueviolet;
+}
+img{
+    width: 250px;
+    
+}
+body{
+    background-color: aqua;
+}
